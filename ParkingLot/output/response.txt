@@ -1,0 +1,1202 @@
+Car slots = 200 Bike Slots=25 Bus slots=20
+Car slots = 200 Bike Slots=25 Bus slots=20
+Car slots = 200 Bike Slots=25 Bus slots=20
+Parked - class Vehicles.Bus
+Parked - class Vehicles.Bike
+Parked - class Vehicles.Car
+Car slots = 199 Bike Slots=24 Bus slots=19
+Parked - class Vehicles.Bike
+Car slots = 199 Bike Slots=23 Bus slots=19
+Parked - class Vehicles.Bus
+Car slots = 199 Bike Slots=23 Bus slots=18
+Parked - class Vehicles.Car
+Car slots = 198 Bike Slots=23 Bus slots=18
+Parked - class Vehicles.Bike
+Car slots = 198 Bike Slots=22 Bus slots=18
+Parked - class Vehicles.Bus
+Car slots = 198 Bike Slots=22 Bus slots=17
+Parked - class Vehicles.Bike
+Car slots = 198 Bike Slots=21 Bus slots=17
+Parked - class Vehicles.Car
+Car slots = 197 Bike Slots=21 Bus slots=17
+Parked - class Vehicles.Car
+Car slots = 196 Bike Slots=21 Bus slots=17
+Parked - class Vehicles.Bus
+Car slots = 196 Bike Slots=21 Bus slots=16
+Parked - class Vehicles.Bike
+Car slots = 196 Bike Slots=20 Bus slots=16
+Parked - class Vehicles.Bus
+Car slots = 196 Bike Slots=20 Bus slots=15
+Parked - class Vehicles.Bus
+Car slots = 196 Bike Slots=20 Bus slots=14
+Parked - class Vehicles.Bike
+Car slots = 196 Bike Slots=19 Bus slots=14
+Parked - class Vehicles.Car
+Car slots = 195 Bike Slots=19 Bus slots=14
+Parked - class Vehicles.Bike
+Car slots = 195 Bike Slots=18 Bus slots=14
+Parked - class Vehicles.Car
+Car slots = 194 Bike Slots=18 Bus slots=14
+Parked - class Vehicles.Bus
+Car slots = 194 Bike Slots=18 Bus slots=13
+Parked - class Vehicles.Bus
+Car slots = 194 Bike Slots=18 Bus slots=12
+Parked - class Vehicles.Car
+Car slots = 193 Bike Slots=18 Bus slots=12
+Parked - class Vehicles.Bike
+Car slots = 193 Bike Slots=17 Bus slots=12
+Parked - class Vehicles.Bus
+Car slots = 193 Bike Slots=17 Bus slots=11
+Parked - class Vehicles.Car
+Car slots = 192 Bike Slots=17 Bus slots=11
+Parked - class Vehicles.Bike
+Car slots = 192 Bike Slots=16 Bus slots=11
+Parked - class Vehicles.Bus
+Car slots = 192 Bike Slots=16 Bus slots=10
+Parked - class Vehicles.Bike
+Car slots = 192 Bike Slots=15 Bus slots=10
+Parked - class Vehicles.Car
+Car slots = 191 Bike Slots=15 Bus slots=10
+Parked - class Vehicles.Bike
+Car slots = 191 Bike Slots=14 Bus slots=10
+Car slots = 191 Bike Slots=14 Bus slots=10
+Parked - class Vehicles.Car
+Parked - class Vehicles.Bus
+Car slots = 190 Bike Slots=14 Bus slots=9
+Parked - class Vehicles.Bus
+Car slots = 190 Bike Slots=14 Bus slots=8
+Parked - class Vehicles.Car
+Car slots = 189 Bike Slots=14 Bus slots=8
+Parked - class Vehicles.Bike
+Car slots = 189 Bike Slots=13 Bus slots=8
+Parked - class Vehicles.Car
+Car slots = 188 Bike Slots=13 Bus slots=8
+Parked - class Vehicles.Bus
+Car slots = 188 Bike Slots=13 Bus slots=7
+Parked - class Vehicles.Bus
+Car slots = 188 Bike Slots=13 Bus slots=6
+Parked - class Vehicles.Bus
+Car slots = 188 Bike Slots=13 Bus slots=5
+Parked - class Vehicles.Bus
+Car slots = 188 Bike Slots=13 Bus slots=4
+Parked - class Vehicles.Car
+Car slots = 187 Bike Slots=13 Bus slots=4
+Parked - class Vehicles.Car
+Car slots = 186 Bike Slots=13 Bus slots=4
+Parked - class Vehicles.Car
+Car slots = 185 Bike Slots=13 Bus slots=4
+Parked - class Vehicles.Bus
+Car slots = 185 Bike Slots=13 Bus slots=3
+Parked - class Vehicles.Bike
+Car slots = 185 Bike Slots=12 Bus slots=3
+Parked - class Vehicles.Bike
+Car slots = 185 Bike Slots=11 Bus slots=3
+Parked - class Vehicles.Bus
+Car slots = 185 Bike Slots=11 Bus slots=2
+Parked - class Vehicles.Car
+Car slots = 184 Bike Slots=11 Bus slots=2
+Parked - class Vehicles.Bike
+Car slots = 184 Bike Slots=10 Bus slots=2
+Parked - class Vehicles.Bike
+Car slots = 184 Bike Slots=9 Bus slots=2
+Parked - class Vehicles.Bike
+Car slots = 184 Bike Slots=8 Bus slots=2
+Parked - class Vehicles.Car
+Car slots = 183 Bike Slots=8 Bus slots=2
+Parked - class Vehicles.Bus
+Car slots = 183 Bike Slots=8 Bus slots=1
+Parked - class Vehicles.Bike
+Car slots = 183 Bike Slots=7 Bus slots=1
+Parked - class Vehicles.Bus
+Car slots = 183 Bike Slots=7 Bus slots=0
+Parked - class Vehicles.Bike
+Car slots = 183 Bike Slots=6 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 182 Bike Slots=6 Bus slots=0
+Parked - class Vehicles.Bus
+Car slots = 182 Bike Slots=5 Bus slots=0
+Parked - class Vehicles.Bus
+Car slots = 182 Bike Slots=4 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 181 Bike Slots=4 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 180 Bike Slots=4 Bus slots=0
+Parked - class Vehicles.Bike
+Car slots = 180 Bike Slots=3 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 179 Bike Slots=3 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 178 Bike Slots=3 Bus slots=0
+Parked - class Vehicles.Bus
+Car slots = 178 Bike Slots=2 Bus slots=0
+Parked - class Vehicles.Bike
+Car slots = 178 Bike Slots=1 Bus slots=0
+Parked - class Vehicles.Bike
+Car slots = 178 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 177 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 177 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 177 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 176 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 176 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 176 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 175 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 175 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 175 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 174 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 174 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 173 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 173 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 173 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 173 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 173 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 173 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 172 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 171 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 171 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 170 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 170 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 169 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 168 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 168 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 168 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 168 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 167 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 167 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 167 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 167 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 166 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 166 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 165 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 164 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 164 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 164 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 164 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 164 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 163 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 163 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 163 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 163 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 162 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 162 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 162 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 162 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 161 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 161 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 160 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 160 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 160 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 159 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 158 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 158 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 158 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 157 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 157 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 156 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 156 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 156 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 156 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 156 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 156 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 155 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 154 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 154 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 154 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 153 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 153 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 153 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 152 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 152 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 152 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 151 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 150 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 150 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 150 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 149 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 149 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 148 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 148 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 148 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 148 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 147 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 147 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 147 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 147 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 147 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 146 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 146 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 146 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 145 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 145 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 145 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 145 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 145 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 145 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 144 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 144 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 144 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 143 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 143 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 143 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 143 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 143 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 142 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 142 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 142 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 142 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 141 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 141 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 141 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 141 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 140 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 140 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 139 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 139 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 139 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 138 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 138 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 138 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 138 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 138 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 138 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 138 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 138 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 137 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 137 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 137 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 137 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 137 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 137 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 136 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 135 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 135 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 135 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 135 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 134 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 134 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 134 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 134 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 133 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 133 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 132 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 132 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 132 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 132 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 132 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 131 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 130 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 130 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 130 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 130 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 129 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 129 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 128 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 128 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 128 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 128 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 127 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 126 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 126 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 126 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 125 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 125 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 125 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 125 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 125 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 124 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 124 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 124 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 124 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 123 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 123 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 123 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 122 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 122 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 122 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 122 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 122 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 122 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 121 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 120 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 120 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 120 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 120 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 120 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 119 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 119 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 119 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 119 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 119 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 118 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 118 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 118 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 118 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 117 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 117 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 117 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 117 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 116 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 116 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 116 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 115 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 114 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 114 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 114 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 113 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 113 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 113 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 112 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 112 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 112 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 111 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 111 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 110 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 110 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 110 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 110 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 110 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 109 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 109 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 108 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 108 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 108 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 108 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 107 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 107 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 107 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 107 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 106 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 105 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 105 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 105 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 105 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 104 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 104 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 104 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 103 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 103 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 103 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 102 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 102 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 101 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 101 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 101 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 100 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 100 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 100 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 100 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 100 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 99 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 99 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 98 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 98 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 98 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 98 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 97 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 97 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 96 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 95 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 94 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 94 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 93 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 93 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 93 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 92 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 92 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 92 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 91 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 91 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 91 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 91 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 91 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 90 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 89 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 89 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 89 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 89 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 89 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 88 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 88 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 88 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 87 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 87 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 87 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 87 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 86 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 86 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 86 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 86 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 85 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 84 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 84 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 84 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 84 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 83 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 83 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 83 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 83 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 82 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 82 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 82 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 82 Bike Slots=0 Bus slots=0
+Car slots = 82 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Couldn't park class Vehicles.Bus
+Car slots = 82 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 82 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 81 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 81 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 81 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 81 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 80 Bike Slots=0 Bus slots=0
+Car slots = 80 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Couldn't park class Vehicles.Bike
+Car slots = 79 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 79 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 78 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 78 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 77 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 76 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 76 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 76 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 75 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 75 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 74 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 73 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 72 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 72 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 71 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 71 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 70 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 70 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 69 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 69 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 69 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 68 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 67 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 67 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 67 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 67 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 66 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 66 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 66 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 66 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 65 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 65 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 65 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 65 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 65 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 64 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 64 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 63 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 63 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 63 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 62 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 62 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 61 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 61 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 61 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 61 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 60 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 60 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 60 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 60 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 59 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 59 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 59 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 58 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 58 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 58 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 58 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 57 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 57 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 56 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 55 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 55 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 55 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 54 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 54 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 54 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 54 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 53 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 53 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 52 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 52 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 52 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 51 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 51 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 51 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 50 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 49 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 49 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 49 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 48 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 47 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 47 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 47 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 47 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 47 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 47 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 46 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 45 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 45 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 44 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 44 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 44 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 44 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 44 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 43 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 42 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 42 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 41 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 41 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 41 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 40 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 39 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 39 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 39 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 39 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 38 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 38 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 37 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 37 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 37 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 36 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 36 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 36 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 36 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 35 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 34 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 34 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 34 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 34 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 34 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 33 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 32 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 31 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 31 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 31 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 31 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 30 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 29 Bike Slots=0 Bus slots=0
+Car slots = 29 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Couldn't park class Vehicles.Bus
+Car slots = 28 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 28 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 28 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 27 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 27 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 27 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 26 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 26 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 26 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 26 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 26 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 25 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 25 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 25 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 25 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 24 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 23 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 23 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 23 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 22 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 22 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 22 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 22 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 21 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 21 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 21 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 21 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 20 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 20 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 19 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 18 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 18 Bike Slots=0 Bus slots=0
+Car slots = 18 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Couldn't park class Vehicles.Bike
+Car slots = 18 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 18 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 18 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 18 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 17 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 17 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 17 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 17 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 17 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 17 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 16 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 16 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 16 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 16 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 15 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 14 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 14 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 14 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 13 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 13 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 12 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 12 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 12 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 11 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 11 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 11 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 10 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 10 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 9 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 8 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 7 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 7 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 7 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 7 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 7 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 6 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 5 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 5 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 5 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 5 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 5 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 5 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 4 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 4 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 4 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 3 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 2 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 2 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 2 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 2 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 2 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 1 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bus
+Car slots = 1 Bike Slots=0 Bus slots=0
+Parked - class Vehicles.Car
+Car slots = 0 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 0 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+Car slots = 0 Bike Slots=0 Bus slots=0
+Couldn't park class Vehicles.Bike
+
+Process finished with exit code 0
